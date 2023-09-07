@@ -45,3 +45,13 @@ $ npx create-react-app 02-pizza-app
 <br/>
 
 ### 07. Rendering the root component and strict mode in the React App
+
+https://github.com/wildmakaka/React-18-Course/pull/4
+
+<br/>
+
+### 08. Creating Components and reusing inside other components in React App
+
+<br/>
+
+![React 18](/img/pic02.png 'React 18')
