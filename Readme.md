@@ -28,7 +28,9 @@ recommended vscode extensions
 
 <br/>
 
+```
 https://github.com/wildmakaka/React-18-Course/pull/3
+```
 
 <br/>
 
@@ -46,7 +48,9 @@ $ npx create-react-app 02-pizza-app
 
 ### 07. Rendering the root component and strict mode in the React App
 
+```
 https://github.com/wildmakaka/React-18-Course/pull/4
+```
 
 <br/>
 
@@ -55,3 +59,23 @@ https://github.com/wildmakaka/React-18-Course/pull/4
 <br/>
 
 ![React 18](/img/pic02.png 'React 18')
+
+<br/>
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/5
+```
+
+<br/>
+
+### 09. Styling React Components using style, className and external css file in React App
+
+<br/>
+
+![React 18](/img/pic03.png 'React 18')
+
+<br/>
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/6
+```
