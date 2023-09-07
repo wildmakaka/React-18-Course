@@ -46,7 +46,7 @@ $ npx create-react-app 02-pizza-app
 
 <br/>
 
-### 07. Rendering the root component and strict mode in the React App
+### 07. Rendering the root component and strict mode
 
 ```
 https://github.com/wildmakaka/React-18-Course/pull/4
@@ -54,7 +54,7 @@ https://github.com/wildmakaka/React-18-Course/pull/4
 
 <br/>
 
-### 08. Creating Components and reusing inside other components in React App
+### 08. Creating Components and reusing inside other components
 
 <br/>
 
@@ -68,7 +68,7 @@ https://github.com/wildmakaka/React-18-Course/pull/5
 
 <br/>
 
-### 09. Styling React Components using style, className and external css file in React App
+### 09. Styling React Components using style, className and external css file
 
 <br/>
 
@@ -79,3 +79,11 @@ https://github.com/wildmakaka/React-18-Course/pull/5
 ```
 https://github.com/wildmakaka/React-18-Course/pull/6
 ```
+
+<br/>
+
+### 10. Sending the Props data from parent component to child component
+
+<br/>
+
+![React 18](/img/pic04.png 'React 18')
