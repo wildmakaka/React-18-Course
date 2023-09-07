@@ -24,4 +24,20 @@ recommended vscode extensions
 
 <br/>
 
-![React 18](/img/courses/angular/rxjs/angular-reactive-reactive-programming-using-rxjs/pic01.png 'React 18'){: .center-image }
+![React 18](/img/pic01.png 'React 18')
+
+<br/>
+
+https://github.com/wildmakaka/React-18-Course/pull/3
+
+<br/>
+
+### 05. Understand about Create-React-App and Vite Build tool for creating new React App
+
+<br/>
+
+### 06. Create New React App using Create-React-App Command tool and explore project structure
+
+```
+$ npx create-react-app 02-pizza-app
+```
