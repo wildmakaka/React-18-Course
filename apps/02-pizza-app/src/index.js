@@ -58,12 +58,6 @@ function App() {
 }
 
 function Header() {
-  // const style = {
-  //   'font-size': '24px',
-  //   color: 'red',
-  //   'text-transform': 'uppercase',
-  // };
-
   return (
     <div className="header">
       <h1>Leela Pizza App</h1>
@@ -74,25 +68,31 @@ function Header() {
 function Menu() {
   return (
     <div className="menu">
-      <h2>Our Menu</h2> <Pizza />
-      <Pizza />
-      <Pizza />
+      <h2>Our Menu</h2>
+      <Pizza
+        name="Pizza Prosciutto"
+        ingredients="Tomato, mozarella, ham, aragula, and burrata cheese"
+        price={18}
+        photoName="pizzas/prosciutto.jpg"
+        soldOut="false"
+      />
+    </div>
+  );
+}
+
+function Pizza(props) {
+  return (
+    <div>
+      <img src={props.photoName} alt={props.name} />
+      <h3>{props.name}</h3>
+      <p>{props.ingredients}</p>
+      <p>{props.price}</p>
     </div>
   );
 }
 
 function Footer() {
   return <div>Open Today</div>;
-}
-
-function Pizza() {
-  return (
-    <div>
-      <img src="pizzas/prosciutto.jpg" alt="Pizza" />
-      <h3>Pizza Title</h3>
-      <div>Pizza Description</div>
-    </div>
-  );
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
