@@ -122,3 +122,7 @@ https://github.com/wildmakaka/React-18-Course/pull/8
 <br/>
 
 ### 13. Conditional Rendering of the JSX using &&
+
+<br/>
+
+### 14. Ternary Operator Conditional Rendering and && condition if else condition 
