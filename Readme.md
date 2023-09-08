@@ -107,4 +107,18 @@ https://github.com/wildmakaka/React-18-Course/pull/7
 
 <br/>
 
-![React 18](/img/pic04.png 'React 18')
+![React 18](/img/pic05.png 'React 18')
+
+<br/>
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/8
+```
+
+<br/>
+
+### 12. Render Lists using map method for looping components
+
+<br/>
+
+### 13. Conditional Rendering of the JSX using &&
