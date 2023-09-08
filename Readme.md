@@ -2,6 +2,11 @@
 
 <br/>
 
+**Original src:**  
+https://github.com/leelanarasimha/react18-course
+
+<br/>
+
 ### 01. Create a Simple React App to fetch details from Dummy API
 
 <br/>
@@ -83,6 +88,22 @@ https://github.com/wildmakaka/React-18-Course/pull/6
 <br/>
 
 ### 10. Sending the Props data from parent component to child component
+
+<br/>
+
+![React 18](/img/pic04.png 'React 18')
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/7
+```
+
+<br/>
+
+### 11. Rules Of writing JSX Code. Difference between JSX and Regular HTML code in React App
+
+<br/>
+
+### 12. Render Lists using map method for looping components
 
 <br/>
 
