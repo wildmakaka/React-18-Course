@@ -136,3 +136,11 @@ https://github.com/wildmakaka/React-18-Course/pull/9
 <br/>
 
 ### 15. Extract props in Component from object using Destructing
+
+<br/>
+
+### 16. React Fragment and apply classes dynamically for JSX elements
+
+<br/>
+
+![React 18](/img/pic06.png 'React 18')
