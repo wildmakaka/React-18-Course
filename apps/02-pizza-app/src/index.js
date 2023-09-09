@@ -72,26 +72,29 @@ function Menu() {
   return (
     <div className="menu">
       <h2>Our Menu</h2>
+
       {numPizzas ? (
-        <ul className="pizzas">
-          {pizzas.map((pizza) => (
-            <Pizza pizzaObj={pizza} key={pizza.name} />
-          ))}
-        </ul>
+        <>
+          <p>Please select the Pizza from the List</p>
+          <ul className="pizzas">
+            {pizzas.map((pizza) => (
+              <Pizza pizzaObj={pizza} key={pizza.name} />
+            ))}
+          </ul>
+        </>
       ) : null}
     </div>
   );
 }
 
-function Pizza(props) {
-  if (props.pizzaObj.soldOut) return null;
+function Pizza({ pizzaObj }) {
   return (
-    <li className="pizza">
-      <img src={props.pizzaObj.photoName} alt={props.pizzaObj.name} />
+    <li className={`pizza ${pizzaObj.soldOut ? 'sold-out' : ''}`}>
+      <img src={pizzaObj.photoName} alt={pizzaObj.name} />
       <div>
-        <h3>{props.pizzaObj.name}</h3>
-        <p>{props.pizzaObj.ingredients}</p>
-        <p>{props.pizzaObj.price}</p>
+        <h3>{pizzaObj.name}</h3>
+        <p>{pizzaObj.ingredients}</p>
+        <p>{pizzaObj.soldOut ? 'SOLD OUT' : pizzaObj.price}</p>
       </div>
     </li>
   );
@@ -106,16 +109,23 @@ function Footer() {
   return (
     <footer className="footer">
       {isOpen ? (
-        <div className="order">
-          <p>
-            We are open until {closedHour}:00. Come and visit us or order online
-          </p>
-          <button className="btn">Order</button>
-        </div>
+        <Order closedHour={closedHour} openHour={openHour} />
       ) : (
         <p>We are closed!!!</p>
       )}
     </footer>
+  );
+}
+
+function Order({ openHour, closedHour }) {
+  return (
+    <div className="order">
+      <p>
+        We are open from {openHour}:00 to {closedHour}:00. Come and visit us or
+        order online
+      </p>
+      <button className="btn">Order</button>
+    </div>
   );
 }
 
