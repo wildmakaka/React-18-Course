@@ -43,6 +43,10 @@ https://github.com/wildmakaka/React-18-Course/pull/3
 
 <br/>
 
+## Project 02:
+
+<br/>
+
 ### 06. Create New React App using Create-React-App Command tool and explore project structure
 
 ```
@@ -144,3 +148,23 @@ https://github.com/wildmakaka/React-18-Course/pull/9
 <br/>
 
 ![React 18](/img/pic06.png 'React 18')
+
+<br/>
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/10
+```
+
+<br/>
+
+## Project 03:
+
+### 17. Create new React project setup Events app for implementing Event Listeners
+
+```
+$ npx create-react-app 03-events-app
+```
+
+<br/>
+
+![React 18](/img/pic07.png 'React 18')
