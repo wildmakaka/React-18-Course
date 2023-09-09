@@ -178,3 +178,15 @@ $ npx create-react-app 03-events-app
 <br/>
 
 ![React 18](/img/pic08.png 'React 18')
+
+<br/>
+
+### 19. Understand the concept of State in React and how it is useful in Component
+
+<br/>
+
+### 20. Implement State using the useState
+
+<br/>
+
+![React 18](/img/pic09.png 'React 18')
