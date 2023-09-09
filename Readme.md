@@ -159,6 +159,8 @@ https://github.com/wildmakaka/React-18-Course/pull/10
 
 ## Project 03:
 
+<br/>
+
 ### 17. Create new React project setup Events app for implementing Event Listeners
 
 ```
@@ -168,3 +170,11 @@ $ npx create-react-app 03-events-app
 <br/>
 
 ![React 18](/img/pic07.png 'React 18')
+
+<br/>
+
+### 18. Understand Event Listeners in React and implement Click event
+
+<br/>
+
+![React 18](/img/pic08.png 'React 18')
