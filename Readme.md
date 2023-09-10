@@ -218,3 +218,11 @@ $ npx create-react-app 04-grocery-list
 <br/>
 
 ![React 18](/img/pic10.png 'React 18')
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/12
+```
+
+<br/>
+
+### 24. Controlled Elements. Get the Form Details using Controlled Components with State
