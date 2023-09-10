@@ -210,3 +210,11 @@ https://github.com/wildmakaka/React-18-Course/pull/11
 ```
 $ npx create-react-app 04-grocery-list
 ```
+
+<br/>
+
+### 23. Setup the components and design the JSX templates
+
+<br/>
+
+![React 18](/img/pic10.png 'React 18')

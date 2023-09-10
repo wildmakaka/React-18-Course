@@ -6,12 +6,14 @@ import ItemsList from './ItemsList';
 
 function App() {
   return (
-    <div className="container">
+    <>
       <Header />
-      <AddItem />
-      <ItemsList />
+      <div className="container">
+        <AddItem />
+        <ItemsList />
+      </div>
       <Footer />
-    </div>
+    </>
   );
 }
 
