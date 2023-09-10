@@ -190,3 +190,23 @@ $ npx create-react-app 03-events-app
 <br/>
 
 ![React 18](/img/pic09.png 'React 18')
+
+<br/>
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/11
+```
+
+<br/>
+
+### 21. React Developer Tools & how to install in different browsers for debugging
+
+- React Developer Tools
+
+<br/>
+
+### 22. Create new Grocery Project in React. Project Setup and components Creation
+
+```
+$ npx create-react-app 04-grocery-list
+```
