@@ -226,3 +226,7 @@ https://github.com/wildmakaka/React-18-Course/pull/12
 <br/>
 
 ### 24. Controlled Elements. Get the Form Details using Controlled Components with State
+
+<br/>
+
+### 25. Submit Add Item Form Details with Event Listeners and Controlled Elements
