@@ -230,3 +230,7 @@ https://github.com/wildmakaka/React-18-Course/pull/12
 <br/>
 
 ### 25. Submit Add Item Form Details with Event Listeners and Controlled Elements
+
+<br/>
+
+### 26. Lifting State up. Send Data from child to parent component
