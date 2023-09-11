@@ -42,7 +42,7 @@ export default function AddItem({ addItem }) {
           </select>
         </div>
         <div>
-          <label>Price</label>
+          <label>Price per Quantity</label>
           <input
             type="number"
             value={price}

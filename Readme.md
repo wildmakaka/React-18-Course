@@ -234,3 +234,11 @@ https://github.com/wildmakaka/React-18-Course/pull/12
 <br/>
 
 ### 26. Lifting State up. Send Data from child to parent component
+
+<br/>
+
+### 26. Lifting State up. Send Data from child to parent component
+
+<br/>
+
+### 27. Understand the Concept of Derived State in React App with example
