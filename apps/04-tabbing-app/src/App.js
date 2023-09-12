@@ -41,8 +41,7 @@ function App() {
       </div>
       <TabDescription>
         <div>{description}</div>
-      </TabDescription>{' '}
-      />
+      </TabDescription>
     </div>
   );
 }

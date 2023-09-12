@@ -290,3 +290,21 @@ $ npx create-react-app 04-tabbing-app
 <br/>
 
 ![React 18](/img/pic13.png 'React 18')
+
+<br/>
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/14
+```
+
+<br/>
+
+## Project 05:
+
+<br/>
+
+### 33. Create New Project Friends Bill
+
+```
+$ npx create-react-app 05-friends-bill-share
+```
