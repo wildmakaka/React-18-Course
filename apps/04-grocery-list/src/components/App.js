@@ -18,12 +18,24 @@ function App() {
     });
   }
 
+  function onItemSelected(id) {
+    setItems((items) => {
+      return items.map((item) => {
+        return item.id === id ? { ...item, selected: !item.selected } : item;
+      });
+    });
+  }
+
   return (
     <>
       <Header />
       <div className="container">
         <AddItem addItem={addItem} />
-        <ItemsList items={items} deleteItem={deleteItem} />
+        <ItemsList
+          items={items}
+          deleteItem={deleteItem}
+          onItemSelected={onItemSelected}
+        />
       </div>
       <Footer />
     </>

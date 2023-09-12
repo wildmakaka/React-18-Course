@@ -246,3 +246,7 @@ https://github.com/wildmakaka/React-18-Course/pull/12
 <br/>
 
 ### 28. Deleting the single item from the items list by Lifting state up
+
+<br/>
+
+### 29. Selecting the Items from list and show price only for selected list by lifting State up
