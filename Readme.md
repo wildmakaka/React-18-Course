@@ -282,3 +282,11 @@ $ npx create-react-app 04-tabbing-app
 <br/>
 
 ![React 18](/img/pic12.png 'React 18')
+
+<br/>
+
+### 32. Completing Tabbing Project in React JS and understand Children Prop in Component
+
+<br/>
+
+![React 18](/img/pic13.png 'React 18')
