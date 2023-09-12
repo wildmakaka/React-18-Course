@@ -250,3 +250,19 @@ https://github.com/wildmakaka/React-18-Course/pull/12
 <br/>
 
 ### 29. Selecting the Items from list and show price only for selected list by lifting State up
+
+<br/>
+
+### 29. Selecting the Items from list and show price only for selected list by lifting State up
+
+<br/>
+
+### 30. Design footer and display the items list count and total price in React App
+
+<br/>
+
+![React 18](/img/pic11.png 'React 18')
+
+```
+https://github.com/wildmakaka/React-18-Course/pull/13
+```

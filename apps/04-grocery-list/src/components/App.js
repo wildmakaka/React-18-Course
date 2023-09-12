@@ -37,7 +37,7 @@ function App() {
           onItemSelected={onItemSelected}
         />
       </div>
-      <Footer />
+      <Footer items={items} />
     </>
   );
 }
