@@ -308,3 +308,7 @@ https://github.com/wildmakaka/React-18-Course/pull/14
 ```
 $ npx create-react-app 05-friends-bill-share
 ```
+
+<br/>
+
+### 34. Add Friend Details Component in the Bill Share App

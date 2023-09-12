@@ -2,13 +2,21 @@ import { useState } from 'react';
 import './App.css';
 import AddFriend from './components/AddFriend';
 import BillShare from './components/BillShare';
+import FriendsList from './components/FriendsList';
 
 function App() {
-  const FriendsList = useState([]);
+  const [friends, setFriends] = useState([]);
+
+  function addFriend(name) {
+    setFriends((friends) => [
+      ...friends,
+      { id: Date.now(), name, billDetails: [] },
+    ]);
+  }
 
   return (
-    <div className="App">
-      <AddFriend />
+    <div className="container">
+      <AddFriend onAddFriend={addFriend} />
       <BillShare />
       <FriendsList />
     </div>
