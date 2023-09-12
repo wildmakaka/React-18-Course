@@ -266,3 +266,19 @@ https://github.com/wildmakaka/React-18-Course/pull/12
 ```
 https://github.com/wildmakaka/React-18-Course/pull/13
 ```
+
+<br/>
+
+## Project 04:
+
+<br/>
+
+### 31. Create new Project Tabbing
+
+```
+$ npx create-react-app 04-tabbing-app
+```
+
+<br/>
+
+![React 18](/img/pic12.png 'React 18')
