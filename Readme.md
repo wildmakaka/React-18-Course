@@ -312,3 +312,15 @@ $ npx create-react-app 05-friends-bill-share
 <br/>
 
 ### 34. Add Friend Details Component in the Bill Share App
+
+<br/>
+
+### 34. Add Friend Details Component in the Bill Share App
+
+<br/>
+
+### 35. Create Bill Share Component to share bills between friends
+
+<br/>
+
+### 36. Submit the Bill Details Form Component

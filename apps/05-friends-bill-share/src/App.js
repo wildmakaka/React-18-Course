@@ -14,11 +14,15 @@ function App() {
     ]);
   }
 
+  function onBillPaid(billDetails) {
+    console.log(billDetails);
+  }
+
   return (
     <div className="container">
       <AddFriend onAddFriend={addFriend} />
-      <BillShare />
-      <FriendsList />
+      <BillShare friends={friends} onBillPaid={onBillPaid} />
+      <FriendsList friends={friends} />
     </div>
   );
 }
