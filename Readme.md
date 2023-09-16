@@ -308,3 +308,35 @@ https://github.com/wildmakaka/React-18-Course/pull/14
 ```
 $ npx create-react-app 05-friends-bill-share
 ```
+
+<br/>
+
+### 34. Add Friend Details Component in the Bill Share App
+
+<br/>
+
+### 34. Add Friend Details Component in the Bill Share App
+
+<br/>
+
+### 35. Create Bill Share Component to share bills between friends
+
+<br/>
+
+### 36. Submit the Bill Details Form Component
+
+<br/>
+
+### 37. Calculate bill logic amount and share bill between all friends
+
+<br/>
+
+### 37. Calculate bill logic amount and share bill between all friends
+
+<br/>
+
+### 38. Completing Friends Bill Share Project | Display the Bill Due Details
+
+<br/>
+
+![React 18](/img/pic14.png 'React 18')
