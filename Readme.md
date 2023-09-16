@@ -328,3 +328,15 @@ $ npx create-react-app 05-friends-bill-share
 <br/>
 
 ### 37. Calculate bill logic amount and share bill between all friends
+
+<br/>
+
+### 37. Calculate bill logic amount and share bill between all friends
+
+<br/>
+
+### 38. Completing Friends Bill Share Project | Display the Bill Due Details
+
+<br/>
+
+![React 18](/img/pic14.png 'React 18')
