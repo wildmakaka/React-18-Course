@@ -324,3 +324,7 @@ $ npx create-react-app 05-friends-bill-share
 <br/>
 
 ### 36. Submit the Bill Details Form Component
+
+<br/>
+
+### 37. Calculate bill logic amount and share bill between all friends
